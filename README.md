@@ -14,4 +14,21 @@ This application has two main portals:
 Book stays at the resort  
 View upcoming and previous bookings  
 Access services for current bookings 
-View information about the resort\nUpdate customer profile\n# Admin PortalUpdate information on rooms\nEdit restaurant menu\nEdit laundry services menu\nEdit amenities available\nView resort operations records\nUpdate admin profile\n# Key FeaturesCommon login for customers and admin\nBooking engine to search availability and book stays\nDashboard views of upcoming, previous bookings for customers\nAdmin configuration of resort info and services\nProfile management for customers and admin\n
+View information about the resort  
+Update customer profile  
+# Admin Portal  
+
+Update information on rooms  
+Edit restaurant menu  
+Edit laundry services menu  
+Edit amenities available  
+View resort operations records  
+Update admin profile  
+
+# Key Features  
+Common login for customers and admin  
+Booking engine to search availability and book stays  
+Dashboard views of upcoming, previous bookings for customers  
+Admin configuration of resort info and services 
+Profile management for customers and admin  
+
