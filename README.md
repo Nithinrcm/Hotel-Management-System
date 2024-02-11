@@ -1,30 +1,17 @@
-# Hotel-Management-System
-A simple hotel management system application with both admin and user functionalities
+# Hotel-Management-System  
 
-# Resort Ivory Bliss
-Welcome to the Resort Ivory Bliss management and booking application! This application provides an interface for customers to book stays and access services and for admin to manage resort operations.
+A simple hotel management system application with both admin and user functionalities  
 
-# Overview
-This application has two main portals:
+# Resort Ivory Bliss  
+Welcome to the Resort Ivory Bliss management and booking application!  
+This application provides an interface for customers to book stays and access services and for admin to manage resort operations.  
 
-# Customer Portal
-Book stays at the resort\n
-View upcoming and previous bookings\n
-Access services for current bookings\n
-View information about the resort\n
-Update customer profile\n
+# Overview  
 
-# Admin Portal
-Update information on rooms\n
-Edit restaurant menu\n
-Edit laundry services menu\n
-Edit amenities available\n
-View resort operations records\n
-Update admin profile\n
+This application has two main portals:  
 
-# Key Features
-Common login for customers and admin\n
-Booking engine to search availability and book stays\n
-Dashboard views of upcoming, previous bookings for customers\n
-Admin configuration of resort info and services\n
-Profile management for customers and admin\n
+# Customer Portal  
+Book stays at the resort  
+View upcoming and previous bookings  
+Access services for current bookings 
+View information about the resort\nUpdate customer profile\n# Admin PortalUpdate information on rooms\nEdit restaurant menu\nEdit laundry services menu\nEdit amenities available\nView resort operations records\nUpdate admin profile\n# Key FeaturesCommon login for customers and admin\nBooking engine to search availability and book stays\nDashboard views of upcoming, previous bookings for customers\nAdmin configuration of resort info and services\nProfile management for customers and admin\n
