@@ -8,24 +8,23 @@ Welcome to the Resort Ivory Bliss management and booking application! This appli
 This application has two main portals:
 
 # Customer Portal
-Book stays at the resort
-View upcoming and previous bookings
-Access services for current bookings
-View information about the resort
-Update customer profile
+Book stays at the resort\n
+View upcoming and previous bookings\n
+Access services for current bookings\n
+View information about the resort\n
+Update customer profile\n
 
 # Admin Portal
-Update information on rooms
-Edit restaurant menu
-Edit laundry services menu
-Edit amenities available
-View resort operations records
-Update admin profile
+Update information on rooms\n
+Edit restaurant menu\n
+Edit laundry services menu\n
+Edit amenities available\n
+View resort operations records\n
+Update admin profile\n
 
 # Key Features
-
-Common login for customers and admin
-Booking engine to search availability and book stays
-Dashboard views of upcoming, previous bookings for customers
-Admin configuration of resort info and services
-Profile management for customers and admin
+Common login for customers and admin\n
+Booking engine to search availability and book stays\n
+Dashboard views of upcoming, previous bookings for customers\n
+Admin configuration of resort info and services\n
+Profile management for customers and admin\n
